@@ -1,0 +1,21 @@
+{
+  "name": "react-01-how-it-exactly-works-basic-flow-between-pages",
+  "version": "1.0.0",
+  "description": "This is Reactjs Basic flow between pages, I have been used only two pages to show the very basic structure of React : Exactly how it works",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-router": "4.3.1",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
